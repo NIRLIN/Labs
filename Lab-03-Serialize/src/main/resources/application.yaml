@@ -1,0 +1,5 @@
+spring:
+  jackson:
+    property-naming-strategy: LOWER_CAMEL_CASE
+    mapper:
+      use-std-bean-naming: true
