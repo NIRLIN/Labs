@@ -1,4 +1,4 @@
-package cn.nirlin.lab01;
+package cn.nirlin.lab01inject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

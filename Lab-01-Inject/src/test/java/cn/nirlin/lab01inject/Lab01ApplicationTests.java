@@ -1,4 +1,4 @@
-package cn.nirlin.lab01;
+package cn.nirlin.lab01inject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

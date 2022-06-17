@@ -1,6 +1,6 @@
-package cn.nirlin.lab01.factory.service.impl;
+package cn.nirlin.lab01inject.factory.service.impl;
 
-import cn.nirlin.lab01.factory.service.FruitService;
+import cn.nirlin.lab01inject.factory.service.FruitService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

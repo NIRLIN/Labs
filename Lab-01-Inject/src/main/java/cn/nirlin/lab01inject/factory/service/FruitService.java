@@ -1,4 +1,4 @@
-package cn.nirlin.lab01.factory.service;
+package cn.nirlin.lab01inject.factory.service;
 
 /**
  * @author nielin

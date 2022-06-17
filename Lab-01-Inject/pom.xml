@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.nirlin</groupId>
-    <artifactId>Lab-01</artifactId>
+    <artifactId>Lab-01-Inject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Lab-01</name>
-    <description>Lab-01</description>
+    <name>Lab-01-Inject</name>
+    <description>Lab-01-Inject</description>
     <properties>
         <java.version>17</java.version>
     </properties>
